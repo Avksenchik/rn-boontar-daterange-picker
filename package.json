@@ -1,0 +1,63 @@
+{
+  "_from": "react-native-daterange-picker",
+  "_id": "react-native-daterange-picker@1.1.3",
+  "_inBundle": false,
+  "_integrity": "sha512-Mut3N1sG2wQUygctrXCERFDEkQo0iHbc9agBV+C4K3kjXGwIIapNKwBCfm6hq1YoQ41tOJlEyUSUh9Z/pHOmRQ==",
+  "_location": "/react-native-daterange-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-daterange-picker",
+    "name": "react-native-daterange-picker",
+    "escapedName": "react-native-daterange-picker",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-daterange-picker/-/react-native-daterange-picker-1.1.3.tgz",
+  "_shasum": "b663f7e80395e3417068f0b1603997067067e1e2",
+  "_spec": "react-native-daterange-picker",
+  "_where": "/Users/macbook/boontar.live-app",
+  "author": {
+    "name": "Naxulanth"
+  },
+  "bugs": {
+    "url": "https://github.com/naxulanth/react-native-daterange-picker/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.26",
+    "@fortawesome/free-solid-svg-icons": "^5.12.0",
+    "@fortawesome/react-native-fontawesome": "^0.1.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.17.1",
+    "react-native-svg": "^9.13.6"
+  },
+  "deprecated": false,
+  "description": "Date range and single date picker for React Native (Supports iOS and Android)",
+  "homepage": "https://github.com/naxulanth/react-native-daterange-picker/",
+  "keywords": [
+    "react-native",
+    "datepicker",
+    "daterange",
+    "daterange-picker"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "react-native-daterange-picker",
+  "peerDependencies": {
+    "react": "^15.6.0",
+    "react-native": "^0.56.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naxulanth/react-native-daterange-picker.git"
+  },
+  "scripts": {},
+  "version": "1.1.3"
+}
